@@ -1,0 +1,287 @@
+﻿
+
+
+.field-validation-error .form-control {
+    border-color: #a94442;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+
+    .field-validation-error .form-control:focus {
+        border-color: #843534;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ce8483;
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #ce8483;
+    }
+
+.field-validation-error > span {
+    color: #a94442;
+}
+
+
+/*BackGroud Colors*/
+
+.brown {
+    background-color: #a52a2a;
+}
+
+.cyan {
+    background-color: #00ffff;
+}
+
+.darkblue {
+    background-color: #00008b;
+}
+
+.darkcyan {
+    background-color: #008b8b;
+}
+
+.darkgrey {
+    background-color: #a9a9a9;
+}
+
+.darkgreen {
+    background-color: #006400;
+}
+
+.darkkhaki {
+    background-color: #bdb76b;
+}
+
+.darkmagenta {
+    background-color: #8b008b;
+}
+
+.darkolivegreen {
+    background-color: #556b2f;
+}
+
+.darkorange {
+    background-color: #ff8c00;
+}
+
+.darkorchid {
+    background-color: #9932cc;
+}
+
+.darkred {
+    background-color: #8b0000;
+}
+
+.darksalmon {
+    background-color: #e9967a;
+}
+
+.darkviolet {
+    background-color: #9400d3;
+}
+
+.fuchsia {
+    background-color: #ff00ff;
+}
+
+.gold {
+    background-color: #ffd700;
+}
+
+.green {
+    background-color: #008000;
+}
+
+.indigo {
+    background-color: #4b0082;
+}
+
+.khaki {
+    background-color: #f0e68c;
+}
+
+.lightblue {
+    background-color: #add8e6;
+}
+
+.lightcyan {
+    background-color: #e0ffff;
+}
+
+.lightgreen {
+    background-color: #90ee90;
+}
+
+.lightgrey {
+    background-color: #d3d3d3;
+}
+
+.lightpink {
+    background-color: #ffb6c1;
+}
+
+.lightyellow {
+    background-color: #ffffe0;
+}
+
+.lime {
+    background-color: #00ff00;
+}
+
+.magenta {
+    background-color: #ff00ff;
+}
+
+maroon {
+    background-color: #800000;
+}
+
+.navy {
+    background-color: #000080;
+}
+
+.olive {
+    background-color: #808000;
+}
+
+.orange {
+    background-color: #ffa500;
+}
+
+.pink {
+    background-color: #ffc0cb;
+}
+
+.purple {
+    background-color: #800080;
+}
+
+violet {
+    background-color: #800080;
+}
+
+.red {
+    background-color: #ff0000;
+}
+
+.silver {
+    background-color: #c0c0c0;
+}
+
+white {
+    background-color: #ffffff;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
+
+/*Webgrid styles*/
+.Webgrid-header {
+    background-color:#eeeeee;
+}
+
+    .Webgrid-header > th > a {
+        color:#000;
+        /*text-decoration:underline;*/
+    }
+
+/*End Webgrid styles*/
+
+.doughnut-legend > li {
+    font-size:12px !important;
+}
+
+.doughnut-legend > li > label {
+    font-size:10px;
+    font-weight:500;
+}
+
+.bar-legend > li {
+    font-size:12px !important;
+}
+
+.bar-legend > li > label {
+    font-size:10px;
+    font-weight:500;
+}
+
+.datepicker{z-index:1151 !important;}
+
+select.multiselect,
+select.multiselect + div.btn-group,
+select.multiselect + div.btn-group button.multiselect,
+select.multiselect + div.btn-group.open .multiselect-container{
+    width:100% !important;
+}
+.rotate Text
+{
+    -webkit-transform: rotate(0deg);
+
+/* Firefox */
+-moz-transform: rotate(0deg);
+
+/* IE */
+-ms-transform: rotate(0deg);
+
+/* Opera */
+-o-transform: rotate(0deg);
+
+}
+.rotate {
+
+/* Safari */
+-webkit-transform: rotate(-90deg);
+
+/* Firefox */
+-moz-transform: rotate(-90deg);
+
+/* IE */
+-ms-transform: rotate(-90deg);
+
+/* Opera */
+-o-transform: rotate(-90deg);
+
+/* Internet Explorer */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
+
+
+ .social-links .fa {
+            color: #ffffff;
+        }
+        .social-links a:hover {
+            background: rgba(0, 0, 0, 0.1) !important;
+            color: #f6f6f6 !important;
+        }
+
+
+.tooltipblack{
+   			display: inline;
+    		position: relative;
+		}
+		
+		.tooltipblack:hover:after{
+    		background: #333;
+    		background: rgba(0,0,0,.8);
+    		border-radius: 5px;
+    		bottom: 26px;
+    		color: #fff;
+    		content: attr(data-tooltip);
+    		left: 20%;
+    		padding: 5px 15px;
+    		position: absolute;
+    		z-index: 98;
+    		width: 220px;
+		}
+		
+		.tooltipblack:hover:before{
+    		border: solid;
+    		border-color: #333 transparent;
+    		border-width: 6px 6px 0 6px;
+    		bottom: 20px;
+    		content: "";
+    		left: 50%;
+    		position: absolute;
+    		z-index: 99;
+		}
+
+
+

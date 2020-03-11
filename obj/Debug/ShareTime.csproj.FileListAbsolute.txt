@@ -1,0 +1,153 @@
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\ShareTime.dll.config
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\ShareTime.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\ShareTime.pdb
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Antlr3.Runtime.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\EntityFramework.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\EntityFramework.SqlServer.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Newtonsoft.Json.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Owin.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\System.Web.Optimization.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\System.Web.Providers.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\WebGrease.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\System.Web.Optimization.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Antlr3.Runtime.pdb
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Newtonsoft.Json.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\EntityFramework.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\EntityFramework.SqlServer.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\obj\Debug\ShareTime.csprojResolveAssemblyReference.cache
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\obj\Debug\ShareTime.dll
+c:\users\mugdha\documents\visual studio 2013\Projects\ShareTime\ShareTime\obj\Debug\ShareTime.pdb
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\ShareTime.dll.config
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\ShareTime.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\ShareTime.pdb
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Antlr3.Runtime.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\EntityFramework.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\EntityFramework.SqlServer.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Newtonsoft.Json.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Owin.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\System.Web.Optimization.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\System.Web.Providers.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\WebGrease.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\System.Web.Optimization.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Antlr3.Runtime.pdb
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Newtonsoft.Json.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\EntityFramework.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\EntityFramework.SqlServer.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\obj\Debug\ShareTime.csprojResolveAssemblyReference.cache
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\obj\Debug\ShareTime.dll
+C:\Users\Mugdha\Desktop\Heckthon\ShareTime\ShareTime\obj\Debug\ShareTime.pdb
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\ShareTime.dll.config
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\ShareTime.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\ShareTime.pdb
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Antlr3.Runtime.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\EntityFramework.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\EntityFramework.SqlServer.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Newtonsoft.Json.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Owin.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\System.Web.Optimization.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\System.Web.Providers.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\WebGrease.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\System.Web.Optimization.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Antlr3.Runtime.pdb
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Newtonsoft.Json.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\EntityFramework.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\EntityFramework.SqlServer.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\obj\Debug\ShareTime.csprojResolveAssemblyReference.cache
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\obj\Debug\ShareTime.dll
+C:\Users\Mugdha\Desktop\Hackathon\ACM-W\ShareTime\ShareTime\obj\Debug\ShareTime.pdb
